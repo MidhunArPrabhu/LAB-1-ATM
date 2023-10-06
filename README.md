@@ -26,7 +26,7 @@ REG.NO:212222100046
 #### ACTIVITY DAIGRAM:
 ![image](https://github.com/sandy29l/LAB-1-ATM/assets/123359969/937b569c-e279-4c60-b7d5-feebc4c03cd0)
 
-#### COMMUNICATION DIAGRAM:
+#### COMMUNICATION DIAGRAM;
 
 ![image](https://github.com/sandy29l/LAB-1-ATM/assets/123359969/b29333cb-75b7-430d-8a32-6cbe4e544787)
 
